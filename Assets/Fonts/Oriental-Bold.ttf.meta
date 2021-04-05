@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6d8189925d287594a94d05985d703a1d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Oriental
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1acd25c35a9377b4fb90610d7435ab81, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
